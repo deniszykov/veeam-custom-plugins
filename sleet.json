@@ -1,0 +1,13 @@
+{
+  "config": {
+    "feedLockTimeoutMinutes": 15
+  },
+  "sources": [
+    {
+      "name": "repository",
+      "type": "local",
+      "path": "repository",
+      "baseURI": "https://deniszykov.github.io/veeam-custom-plugins/repository/"
+    }
+  ]
+}
